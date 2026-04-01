@@ -1,7 +1,7 @@
 # TryHackMe: Crack the Hash
 
 ## 🛡️ Progress Report (April 1, 2026)
-**Status:** Task 1 Continued (Challenges Encountered) 🚧
+**Status:** Task 2 Continued (Challenges Encountered) 🚧
 
 ### 🚀 Breakthroughs & Lessons:
 - **Identification:** Encountered a complex hash that CrackStation could not identify. Using the `$6$` signature and **Hashes.com**, I identified it as **SHA-512 (Unix)**.
