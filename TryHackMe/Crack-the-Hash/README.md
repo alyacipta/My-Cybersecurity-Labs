@@ -1,5 +1,21 @@
 # TryHackMe: Crack the Hash
+**Status:** Room Completed ✅
+**Completion Date:** April 2, 2026
 
+## 📝 Final Progress Report (April 2, 2026)
+Today’s session was a mix of technical breakthroughs and significant environment challenges. While I successfully finished the room, the process was far from perfect.
+
+### 🚧 Technical Hurdles & Honesty:
+- **Environment Failure:** My local workstation (WSL and BIOS virtualization) experienced recurring locks. This prevented me from running high-performance tools like **Hashcat** or **John the Ripper** effectively on my own machine.
+- **Task 2 Approach:** Due to these persistent hardware/software limitations, I completed the second task by studying **professional walkthroughs and YouTube tutorials**. 
+- **The Reality:** Instead of being completely stalled by a broken environment, I chose to learn the **logic and methodology** from external resources. While I didn't execute the final cracks for Task 2 myself, I studied the specific Mode IDs and signatures required.
+
+### 💡 Key Takeaways:
+1. **Adaptive Learning:** When tools fail, the priority shifts to understanding the "Why" behind the hash rather than just the "How" of the command.
+2. **Persistence:** Despite the environment errors, I pushed through to see the logic of every hash in the room.
+3. **Strategic Pivot:** Recognizing when a hardware environment is a bottleneck is a key skill. My next step is establishing a stable, high-performance local lab.
+
+---
 ## 🛡️ Progress Report (April 1, 2026)
 **Status:** Task 2 Continued (Challenges Encountered) 🚧
 
