@@ -18,7 +18,7 @@ In a mock crime scene scenario involving a desk with multiple devices (Smartphon
 - **Evidence Depth:** Unlike smaller media, a laptop contains complex artifacts like **System Registries**, **Application Logs**, and **Browser History** which are vital for establishing a timeline [linimasa] of events.
 
 ### 🛡️ Strategic Adjustment:
-After facing persistent environment issues with terminal-heavy rooms (WiFi/Cracking), I have decided to **prioritize [memprioritaskan] analytical and browser-based forensics labs**. This allows me to build a strong theoretical foundation in cybersecurity logic while managing current hardware limitations.
+After facing persistent environment issues with terminal-heavy rooms (WiFi/Cracking), I have decided to **prioritize analytical and browser-based forensics labs**. This allows me to build a strong theoretical foundation in cybersecurity logic while managing current hardware limitations.
 
 ---
 *Next Goal: Understand the legal procedures for evidence collection and chain of custody.*
