@@ -1,6 +1,6 @@
 # 🚩 picoCTF Challenge: PW Crack 4
-**Status:** Completed ✅
-**Date:** May 7, 2026
+**Status:** Completed ✅   
+**Date:** May 7, 2026   
 **Category:** General Skills (Scripting/Python)
 
 ## 📝 Challenge Description
