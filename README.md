@@ -31,19 +31,20 @@ Just like picking a novel, this cybersecurity training must adapt to my current 
 ### 🔴 CONDITION A: Busy & Packed (Heavy College Projects/Tubes, Exams, Competitions)
 * **Goal:** A refreshing break that is instant, lightweight, and gives a quick adrenaline rush without long theoretical texts.
 * **Activity Menu (Pick one - 15 to 30 minutes max as a casual brain break):**
-  * **Google XSS Game (`xss-game.appspot.com`):** A visual puzzle game to inject malicious JavaScript code. Straightforward practice across 6 levels.
-  * **Hack This Site (Basic Missions):** Tinker with locked webpages to bypass passwords for instant gratification.
-  * **OverTheWire (Bandit):** A text-based maze adventure in the Linux terminal to build muscle memory for basic commands.
-  * **PicoCTF:** Perfect for a quick, fast-paced capture-the-flag challenge (10–15 minutes).
+  * **[Google XSS Game](https://xss-game.appspot.com/):** A visual puzzle game to inject malicious JavaScript code. Straightforward practice across 6 levels.
+  * **[Hack This Site (Basic Missions)](https://www.hackthissite.org/missions/basic/):** Tinker with locked webpages to bypass passwords for instant gratification.
+  * **[OverTheWire (Bandit)](https://overthewire.org/wargames/bandit/):** A text-based maze adventure in the Linux terminal to build muscle memory for basic commands.
+  * **[PicoCTF](https://picoctf.org/):** Perfect for a quick, fast-paced capture-the-flag challenge (10–15 minutes).
+* **Rule:** Play for just 15–30 minutes as a casual brain break.
 
 ### 🟢 CONDITION B: Relaxed / Free Time (College Breaks, Manageable Workload)
 * **Goal:** Build a solid foundation, study deeper methodologies, and start hunting seriously.
 * **Activity Menu:**
-  * **TryHackMe (Web Hacking Fundamentals):** Complete structured, interactive sub-chapters directly inside the web browser.
-  * **PortSwigger Web Security Academy:** Read a 5-minute vulnerability explanation, then instantly launch a lab to exploit a mock website using **Burp Suite**.
-  * **API Sec University:** Take the *API Penetration Testing* course to target logical application flaws.
-  * **Reading Write-ups:** Study real-world Bug Bounty reports on Medium or Twitter (X) to learn tactics from elite hackers like reading a detective story.
-  * **HackerOne Dashboard:** Dive into Vulnerability Disclosure Programs (VDP) to find real-world bugs without the pressure of financial competition.
+  * **[TryHackMe (Web Hacking Fundamentals)](https://tryhackme.com/module/web-hacking-fundamentals):** Complete structured, interactive sub-chapters directly inside the web browser.
+  * **[PortSwigger Web Security Academy](https://portswigger.net/web-security):** Read a 5-minute vulnerability explanation, then instantly launch a lab to exploit a mock website using **Burp Suite**.
+  * **[API Sec University](https://www.apisecuniversity.com/):** Take the *API Penetration Testing* course to target logical application flaws.
+  * **Reading Write-ups:** Study real-world Bug Bounty reports on **[Medium](https://medium.com/search?q=Bug+Bounty+Write-up)** or **[Twitter (X)](https://x.com/search?q=Bug%20Bounty%20Write-up&f=live)** to learn tactics from elite hackers like reading a detective story.
+  * **[HackerOne Dashboard](https://hackerone.com/):** Dive into Vulnerability Disclosure Programs (VDP) to find real-world bugs without the pressure of financial competition.
 
 ---
 
