@@ -79,6 +79,8 @@ Searching deep inside a labyrinth of multiple sub-folders for a non-executable f
 find . -type f -size 1033c ! -executable
 ```
 
+> c is bytes
+
 ---
 
 ### 📂 Level 6 ➔ Level 7: System-Wide Scanning & Noise Suppression
