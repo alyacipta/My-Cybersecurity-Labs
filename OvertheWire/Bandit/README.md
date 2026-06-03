@@ -188,3 +188,15 @@ sort data.txt | uniq -u
 * `uniq -u` → Analyzes the sorted stream and strips away any data line that has a duplicate copy, leaving only the single unique line.
 
 ---
+
+## 📂 Level 9 ➔ Level 10: strings
+
+---
+
+## 📂 Level 10 ➔ Level 11: base64 decode
+
+---
+
+## 📂 Level 11 ➔ Level 12: tr
+
+---
